@@ -932,7 +932,7 @@
 /* End Section-10 */
 /* Section-11 */
 .section-11 {
-    padding: 90px 120px;
+    padding: 90px 0 120px;
     background-color: #fff;
 }
 .section-11 .inner-wrap {
@@ -996,6 +996,7 @@
        padding: 48px 15px 96px;
     }
 }
+
 /* End Section-11 */
 /* Section-12 */
 .section-12 {
