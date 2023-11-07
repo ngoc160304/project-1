@@ -84,7 +84,7 @@
     width: 100%;
     text-align: center;
     background: var(--color-bg-main);
-    display: none;
+    display: none ;
 }
 .header .inner-menu-bar .list-menu {
     padding: 0;
@@ -112,7 +112,7 @@
 }
 @media (max-width: 991.98px) {
     .header {
-        height: 60px;
+        height: 76px;
         padding: 10px 20px;
     }
     .header .inner-logo img {

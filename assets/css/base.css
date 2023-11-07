@@ -100,9 +100,12 @@ a:hover {
     color: var(--color-title);
     line-height: 1.1;
 }
-.dp-none {
-    display: none;
-}
-.dp-block {
+
+.header .dp-block {
     display: block !important;
 }
+/* @media (max-width: 991.98px) {
+    .header .dp-block {
+        display: block ;
+    }
+} */
